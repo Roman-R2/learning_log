@@ -9,8 +9,8 @@ __pycache__/
 
 ### Django ###
 *.pyc
-db.sqlite3
-learning_log/settings.py
+*.sqlite3
+# learning_log/settings.py
 /static
 /learning_logs/migrations
 /media
