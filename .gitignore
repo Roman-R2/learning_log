@@ -12,7 +12,7 @@ __pycache__/
 *.sqlite3
 # learning_log/settings.py
 /static
-/learning_logs/migrations
+# /learning_logs/migrations
 /media
 
 ### Other ###
